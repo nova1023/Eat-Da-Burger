@@ -1,4 +1,4 @@
--- USE ``;
+USE `xs88lhr7nxjczvy9`;
 
 CREATE TABLE burgers
 (
